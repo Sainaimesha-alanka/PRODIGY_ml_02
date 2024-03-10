@@ -20,7 +20,6 @@ Display the first few rows of the dataset using df.head().
 Display the shape of the dataset using df.shape.
 Display information about the dataset using df.info().
 Step 3: Prepare Data for Clustering
-
 Select relevant columns (features) for clustering, typically representing customer behavior. In this case, columns 3 and 4 are selected and stored in the variable 'X'.
 Step 4: Elbow Method for Optimal Cluster Selection
 
@@ -44,6 +43,7 @@ Display the final plot.
 Usage:
 Dataset from Kaggle Mall Customer Segmentation Data.
 Used Jupiter Notebook for Python Coding.
+
 Techniques:
 The following techniques are implemented in this project:
 
