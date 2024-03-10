@@ -1,9 +1,8 @@
 # PRODIGY_ml_02
 ML Internship at Prodigy InfoTech
 
-Task - 02
+Task - 02(K-means clustering algorithm to group customers)
 
-K-means clustering algorithm to group customers
 This repository contains code on K-means clustering algorithm to group customers of a retail store based on their purchase history.
 
 Description:
@@ -45,6 +44,4 @@ Dataset from Kaggle Mall Customer Segmentation Data.
 Used Jupiter Notebook for Python Coding.
 
 Techniques:
-The following techniques are implemented in this project:
-
-K-means clustering algorithm
+K-means clustering algorithm technique is implemented in this project.
